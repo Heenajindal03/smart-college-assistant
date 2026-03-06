@@ -1,0 +1,111 @@
+text,intent
+Admission,
+What is the eligibility criteria for the BCA program?,admission
+Is there an age limit for taking admission?,admission
+Admission ke liye kaunse documents scan karne hai?,admission
+Can I change my branch after taking admission?,admission
+"I want to withdraw my admission, what is the refund policy?",admission
+Entrance exam result kab aayega for admission?,admission
+How many seats are available for CSE?,admission
+Is there a lateral entry option for diploma students?,admission
+College campus visit timing for admission query?,admission
+Can I apply for two courses at once?,admission
+Fees,
+What is the total cost of the 4-year BTech course?,fees
+Exam fees separately bharni padti hai kya?,fees
+Is the mess fee included in the hostel fee?,fees
+I paid the fee but haven't received the receipt.,fees
+Are there any extra charges for lab or sports?,fees
+Fee refund process after cancellation kya hai?,fees
+Can I get a fee waiver for being a topper?,fees
+"Online payment fail ho gaya, money deducted but status pending.",fees
+Does the college accept Demand Draft (DD) for fees?,fees
+Semester fees payment link provide kardo.,fees
+Exams,
+What happens if I fail in one subject?,exams
+Re-exam (supplementary) kab hote hai?,exams
+Can I see my checked answer sheet?,exams
+Syllabus for mid-term exams kaha milega?,exams
+Is there a negative marking in the entrance exam?,exams
+Hall ticket print nahi ho raha hai.,exams
+What is the duration of the end-sem exam?,exams
+Emergency leave during exams possible hai?,exams
+How to apply for a duplicate marksheet?,exams
+Practical marks internal hote hai ya external?,exams
+Attendance,
+How much attendance is needed for lab sessions?,attendance
+Attendance kam hone par admit card milega?,attendance
+"I was sick, how to submit a medical for attendance?",attendance
+"Teacher ne attendance mark nahi ki, kya karu?",attendance
+Is attendance compulsory for final year students?,attendance
+Attendance report weekly milti hai kya?,attendance
+My attendance is showing zero on the portal.,attendance
+Extra-curricular activities ke liye attendance milti hai?,attendance
+Total lectures held till now kaise pata kare?,attendance
+Detention list kab release hogi?,attendance
+Timetable,
+What are the college opening and closing hours?,timetable
+Aaj koi extra class hai kya?,timetable
+When is the lunch break in the timetable?,timetable
+Timetable for elective subjects?,timetable
+Where can I see the faculty-wise timetable?,timetable
+Is there a holiday tomorrow?,timetable
+Monday ka schedule change hua hai kya?,timetable
+Practical batches ka timing kya hai?,timetable
+When will the remedial class be held?,timetable
+Seminar hall ka schedule kaha check kare?,timetable
+Placements,
+Does the college have a placement cell?,placements
+Criteria for sitting in Google placement drive?,placements
+Soft skills training milti hai placement ke liye?,placements
+What is the placement percentage for Mechanical?,placements
+Can alumni apply for current placement drives?,placements
+Placement ke liye minimum CGPA kitna chahiye?,placements
+Startup companies aati hai kya placement ke liye?,placements
+TPO (Training & Placement Officer) ka office kaha hai?,placements
+Mock interviews kab conduct honge?,placements
+Internship certificate mandatory hai placement ke liye?,placements
+Hostel,
+Is laundry service available in the hostel?,hostel
+Hostel room mein heater allowed hai?,hostel
+Room allotment preference basis pe hota hai?,hostel
+Outside food allowed hai kya hostel mein?,hostel
+What is the distance between hostel and college?,hostel
+Hostel change karne ka procedure kya hai?,hostel
+Is there a gym facility in the hostel?,hostel
+Parents can stay in the hostel for one day?,hostel
+Hostel mein water cooler and geyser hai?,hostel
+Night out permission process for hostellers.,hostel
+Library,
+Can I donate books to the library?,library
+Digital library ka login ID pass kaise milega?,library
+Quiet study zones library mein kaha hai?,library
+How to check if a book is available in the library?,library
+Library fine per day kitna charge hota hai?,library
+Reference books ghar le ja sakte hai?,library
+Newspaper and magazines section kaha hai?,library
+Library card renew kaise karwaye?,library
+Is there a photocopier (Xerox) inside the library?,library
+Can I use my laptop inside the reading hall?,library
+Scholarships,
+Can international students apply for scholarships?,scholarships
+Caste certificate required hai scholarship ke liye?,scholarships
+EWS scholarship eligibility kya hai?,scholarships
+"My scholarship application was rejected, why?",scholarships
+Sports quota scholarship kaise milti hai?,scholarships
+Bank account link kaise kare scholarship portal se?,scholarships
+Is there a scholarship for single girl child?,scholarships
+Scholarship form verify hone mein kitna time lagta hai?,scholarships
+Previous year marksheet chahiye scholarship ke liye?,scholarships
+Can I get a full tuition fee waiver?,scholarships
+Certificates,
+How to apply for a gap certificate?,certificates
+Passing certificate and Degree mein kya difference hai?,certificates
+Urgent basis pe bonafide mil sakta hai?,certificates
+Degree certificate convocation ke baad kab milega?,certificates
+Character certificate kitne din valid rehta hai?,certificates
+Online portal for certificate application link?,certificates
+How to get an English translation of my degree?,certificates
+What to do if there is a spelling mistake in my marksheet?,certificates
+Caste validity certificate ka process kya hai?,certificates
+College leaving certificate (LC) apply kaise kare?,certificates

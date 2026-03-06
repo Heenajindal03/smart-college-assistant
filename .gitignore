@@ -1,0 +1,7 @@
+*.pkl
+college.db
+__pycache__/
+*.pyc
+.env
+face_module/__pycache__/
+chatbot/__pycache__/
